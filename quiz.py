@@ -1,0 +1,1 @@
+bilangan x (bilangan)
