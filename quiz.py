@@ -1,3 +1,7 @@
-int (bilangan_x)
-bilangan_x <= 1;
-for y<=x; y<=20; y++;
+y = []
+for x in range (0,1,20,3):
+    if (x > 0):
+        y.append(x)
+print(y)
+bilangan_x = sum(y)
+print(bilangan_x)
